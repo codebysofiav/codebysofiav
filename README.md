@@ -62,10 +62,17 @@ Cybersecurity
 </tr>
 </table>
 </p>
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mlp0lmvte80s1xs9bwd3jpgin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=e5b4f3&bar_color_cover=false">
+  </a>
+</p>
 
 </details>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codebysofiav.codebysofiav&left_color=darkviolet&right_color=darkblue"  />
 </div>
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:a18cd1,100:fbc2eb&section=footer"/>
+
