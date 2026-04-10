@@ -1,6 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:a18cd1,100:fbc2eb"/>
 
-<h3 align="center">⊹₊˚‧ 𝐻𝒾 ! 𝒾'𝓂 𝒮𝑜𝒻𝒾𝒶 ‧˚₊⊹</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=⊹₊˚‧+Hi!+I'm+Sofía+‧˚₊⊹&center=true&width=420&height=50&color=A18CD1&size=24&pause=2000">
+</p>
 
 <p align="center">
 🎓 Systems Engineering Student <br>
