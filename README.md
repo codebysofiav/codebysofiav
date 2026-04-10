@@ -64,7 +64,7 @@ Cybersecurity
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mlp0lmvte80s1xs9bwd3jpgin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=e5b4f3&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=mlp0lmvte80s1xs9bwd3jpgin&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=e8b1ec&bar_color_cover=false">
   </a>
 </p>
 
