@@ -211,10 +211,6 @@ Projects focused on data processing, visualization and experimentation with mach
 
 </p>
 
-<p align="center">
-<table align="center">
-<tr>
-
 
 <h3>📊 GitHub Stats</h3>
 
@@ -230,10 +226,15 @@ Projects focused on data processing, visualization and experimentation with mach
 </p>
 
 </details>
+
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=codebysofiav.codebysofiav&left_color=darkviolet&right_color=darkblue"  />
 </div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:a18cd1,100:fbc2eb&section=footer"/>
+
+
+
 
